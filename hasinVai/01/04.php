@@ -18,7 +18,7 @@ var_dump($or); //bool(true)
 // NULL
 $ntg = null;
 var_dump($ntg);//NULL
-
+//two other . 1) array 2) object 
 
 
 //comment
